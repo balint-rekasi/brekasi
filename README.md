@@ -5,3 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/balint-rekasi/brekasi/blob/main/hello.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/balint-rekasi/brekasi/blob/main/hello.jpg">
 </picture>
+
+## About me
+
+I am Balint, a MADE student at AMS.
